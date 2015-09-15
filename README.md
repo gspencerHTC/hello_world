@@ -1,2 +1,3 @@
 # hello_world
-Just screwing around with this.
+Just Messing around.
+Yep! This is fun.
